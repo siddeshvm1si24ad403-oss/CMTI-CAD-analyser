@@ -3,3 +3,4 @@ trimesh==4.0.10
 numpy>=1.26.4
 pillow>=10.0.0
 packaging>=24.0
+trimesh
